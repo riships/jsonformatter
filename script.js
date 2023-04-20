@@ -10,3 +10,7 @@ formatButton.addEventListener("click", () => {
     jsonOutput.textContent = "Invalid JSON";
   }
 });
+
+
+
+
